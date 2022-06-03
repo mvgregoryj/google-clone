@@ -1,3 +1,3 @@
 # google-clone
 
-Clon de Google realizado en HTML y CSS con implementación de busqueda incluida.
+Clon de Google realizado en HTML y CSS con implementación de búsqueda incluida.
